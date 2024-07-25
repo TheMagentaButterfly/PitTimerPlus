@@ -169,11 +169,11 @@ namespace PitTimerPlus
             int seconds = totalSeconds % 60;
             if (minutes > 0)
             {
-                return $"{minutes} minutes {seconds} seconds";
+                return $"{minutes} minutes, {seconds} seconds";
             }
             else
             {
-                return $"{seconds}seconds";
+                return $"{seconds} seconds";
             }
         }
     }

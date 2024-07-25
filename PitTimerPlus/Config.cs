@@ -6,7 +6,7 @@ namespace PitTimerPlus
 {
     internal class Config : Configuration
     {
-        public SettingInt PitDurationSeconds = new SettingInt("PitTimerSettings", "PitDurationSeconds", "The duration of the pit timer in seconds.", 60, 60, 36000, 1);
+        public SettingInt PitDurationSeconds = new SettingInt("PitTimerSettings", "PitDurationSeconds", "The duration of the pit timer in seconds.", 360, 60, 36000, 1);
         public SettingString PitStartMessage = new SettingString("PitTimerSettings", "PitStartMessage", "Message displayed when the pit timer starts.", "~g~Pit Timer started. ~b~Duration:");
         public SettingString PitRemainingMessage = new SettingString("PitTimerSettings", "PitRemainingMessage", "Message displayed during the pursuit", "~b~Time remaining:");
         public SettingString PitExpireMessage = new SettingString("PitTimerSettings", "PitExpireMessage", "Message displayed when the pit timer expires.", "~r~Pit timer has expired.");
