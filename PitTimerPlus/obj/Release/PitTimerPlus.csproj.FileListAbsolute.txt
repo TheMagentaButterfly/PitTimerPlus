@@ -1,0 +1,12 @@
+C:\Users\Tobias B\source\repos\PitTimerPlus\PitTimerPlus\bin\Release\PitTimerPlus.dll
+C:\Users\Tobias B\source\repos\PitTimerPlus\PitTimerPlus\bin\Release\PitTimerPlus.pdb
+C:\Users\Tobias B\source\repos\PitTimerPlus\PitTimerPlus\bin\Release\LSPD First Response.dll
+C:\Users\Tobias B\source\repos\PitTimerPlus\PitTimerPlus\bin\Release\RagePluginHook.dll
+C:\Users\Tobias B\source\repos\PitTimerPlus\PitTimerPlus\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Tobias B\source\repos\PitTimerPlus\PitTimerPlus\bin\Release\RagePluginHook.xml
+C:\Users\Tobias B\source\repos\PitTimerPlus\PitTimerPlus\obj\Release\PitTimerPlus.csprojAssemblyReference.cache
+C:\Users\Tobias B\source\repos\PitTimerPlus\PitTimerPlus\obj\Release\PitTimerPlus.csproj.CoreCompileInputs.cache
+C:\Users\Tobias B\source\repos\PitTimerPlus\PitTimerPlus\obj\Release\PitTimerPlus.csproj.CopyComplete
+C:\Users\Tobias B\source\repos\PitTimerPlus\PitTimerPlus\obj\Release\PitTimerPlus.dll
+C:\Users\Tobias B\source\repos\PitTimerPlus\PitTimerPlus\obj\Release\PitTimerPlus.pdb
+C:\Users\Tobias B\source\repos\PitTimerPlus\PitTimerPlus\bin\Release\IPT.Common.dll
