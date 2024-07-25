@@ -20,9 +20,3 @@ There will be bugs and this plugin is not fully ironed out yet so please give me
 
 Copy all files from the provided Grand Theft Auto V folder into your main game directory.
 Enjoy :D
-
-
-
-[Open Source]
-
-https://github.com/TheMagentaButterfly/PitTimerPlus
