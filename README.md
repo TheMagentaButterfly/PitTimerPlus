@@ -7,13 +7,15 @@ Please have a look at the "PitTimerPlusSettings.ini" file for message and time d
 [Here](https://www.youtube.com/clip/UgkxXq2JViytZbsGfPGDB2prgAwKqXh94VYp) is an example of a pit timer being used during a pursuit by Jeff Favignano on youtube:
 
 
-If anyone wants to use any code of this plugin, they are free to do so just maybe give some credit here and there. Happy coding ^^
+If anyone wants to use any source code of this plugin, they are free to do so. Just maybe give some credit here and there. Happy coding ^^
+
+
+The link to the file on the LSPDFR website can be found [here.](https://www.lcpdfr.com/downloads/gta5mods/scripts/48273-pittimerplus/)
 
 
 [!DISCLAIMER!]
 
-There will be bugs and this plugin is not fully ironed out yet so please give me time to work on this. The Source code will be put on my GitHub for anyone who is interested!
-
+There will be bugs and this plugin is not fully ironed out yet, so please give me time to work on it.
 
 
 [Installation]
