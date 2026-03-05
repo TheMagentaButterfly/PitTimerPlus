@@ -12,12 +12,6 @@ https://www.youtube.com/clip/UgkxXq2JViytZbsGfPGDB2prgAwKqXh94VYp
 If anyone wants to use any code of this plugin, they are free to do so just maybe give some credit here and there. Happy coding ^^
 
 
-[!DISCLAIMER!]
-
-There will be bugs and this plugin is not fully ironed out yet so please give me time to work on this. The Source code will be put on my GitHub for anyone who is interested!
-
-
-
 [Installation]
 
 Copy all files from the provided Grand Theft Auto V folder into your main game directory.
